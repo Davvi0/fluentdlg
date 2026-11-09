@@ -1,0 +1,122 @@
+[
+  {
+    "slug": "frank-ocean",
+    "image": "/artists/frank-ocean.jpg",
+    "author": "Andras Ladocsi",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3AFrank_Ocean_2022_Blonded.jpg"
+  },
+  {
+    "slug": "daniel-caesar",
+    "image": "/artists/daniel-caesar.jpg",
+    "author": "Raph_PH",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3ADaniel_Caesar_-_Coachella_2018.jpg"
+  },
+  {
+    "slug": "bruno-mars",
+    "image": "/artists/bruno-mars.jpg",
+    "author": "slgckgc",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3ABrunoMars24KMagicWorldTourLive_%28cropped%29.jpg"
+  },
+  {
+    "slug": "brent-faiyaz",
+    "image": "/artists/brent-faiyaz.jpg",
+    "author": "Hopex9",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File%3ABrent_Faiyaz_Live.jpg"
+  },
+  {
+    "slug": "bryson-tiller",
+    "image": "/artists/bryson-tiller.jpg",
+    "author": "AtlantaFX",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3ABryson_Tiller_August_2018_%28cropped%29.jpg"
+  },
+  {
+    "slug": "tems",
+    "image": "/artists/tems.jpg",
+    "author": "Maryland GovPics",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3ATems_Afro_Plus_Fest_%2855514652102%29.jpg"
+  },
+  {
+    "slug": "drake",
+    "image": "/artists/drake.jpg",
+    "author": "GabboT",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3ADrake_at_The_Carter_Effect_2017_%2836818935200%29_%28cropped%29.jpg"
+  },
+  {
+    "slug": "giveon",
+    "image": "/artists/giveon.png",
+    "author": "Janeirohy",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3AGiveon_at_2026_Montreux_Jazz_Festival_-_Upright.png"
+  },
+  {
+    "slug": "post-malone",
+    "image": "/artists/post-malone.jpg",
+    "author": "Chrisallmeid",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3APost_Malone_July_2021_%28cropped%29.jpg"
+  },
+  {
+    "slug": "sade",
+    "image": "/artists/sade.jpg",
+    "author": "Thilo Parg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3ASade_Adu_1_%28cropped%29.jpg"
+  },
+  {
+    "slug": "sonder",
+    "image": "/artists/sonder.jpg",
+    "author": "Hopex9",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File%3ABrent_Faiyaz_Live.jpg"
+  },
+  {
+    "slug": "sza",
+    "image": "/artists/sza.jpg",
+    "author": "Raph_PH",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3AKendrickSZASPurs230725-19_-_54683179509_%28cropped%29_%28cropped%29.jpg"
+  },
+  {
+    "slug": "steve-lacy",
+    "image": "/artists/steve-lacy.jpg",
+    "author": "C Elliott",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File%3ASteve_Lacy_%40_Rialto_Theatre.jpg"
+  },
+  {
+    "slug": "partynextdoor",
+    "image": "/artists/partynextdoor.jpg",
+    "author": "The Come Up Show",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3APartyNextDoor_November_2016.jpg"
+  },
+  {
+    "slug": "justin-bieber",
+    "image": "/artists/justin-bieber.jpg",
+    "author": "Daniel Torok",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "source": "https://commons.wikimedia.org/wiki/File%3AP20260719DT-1213_President_Donald_J._Trump_and_First_Lady_Melania_Trump_attend_the_FIFA_World_Cup_Final_%28cropped_2%29.jpg"
+  }
+]
