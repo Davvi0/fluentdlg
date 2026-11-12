@@ -1,6 +1,6 @@
 
-const cacheName = "fluent-shell:/fluentdlg/:v2-assets/index-CAsUQt0i.js,assets/index-D-HbevZV.css,assets/learning-hyZXl3Mg.js,assets/lessons-C5_DWhqF.js,assets/music-Cnfe_Pml.js,assets/word-check-DWgjpafC.js";
-const staticPaths = ["/fluentdlg/index.html","/fluentdlg/manifest.webmanifest","/fluentdlg/fluent.svg","/fluentdlg/icon-192.png","/fluentdlg/icon-512.png","/fluentdlg/assets/index-CAsUQt0i.js","/fluentdlg/assets/index-D-HbevZV.css","/fluentdlg/assets/learning-hyZXl3Mg.js","/fluentdlg/assets/lessons-C5_DWhqF.js","/fluentdlg/assets/music-Cnfe_Pml.js","/fluentdlg/assets/word-check-DWgjpafC.js"];
+const cacheName = "fluent-shell:/fluentdlg/:v2-assets/index-a7A22DX7.js,assets/index-k1hZMDda.css,assets/learning-CoBZNPdu.js,assets/lessons-C-u-Q_oM.js,assets/music-CsMaoJZX.js,assets/word-check-B1V9sdrn.js";
+const staticPaths = ["/fluentdlg/index.html","/fluentdlg/manifest.webmanifest","/fluentdlg/fluent.svg","/fluentdlg/icon-192.png","/fluentdlg/icon-512.png","/fluentdlg/assets/index-a7A22DX7.js","/fluentdlg/assets/index-k1hZMDda.css","/fluentdlg/assets/learning-CoBZNPdu.js","/fluentdlg/assets/lessons-C-u-Q_oM.js","/fluentdlg/assets/music-CsMaoJZX.js","/fluentdlg/assets/word-check-B1V9sdrn.js"];
 self.addEventListener('install', (event) => {
   event.waitUntil(caches.open(cacheName).then((cache) =>
     cache.addAll(staticPaths.map((path) => new Request(path, { cache: 'reload' }))))
